@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="XaomNC3ft@)~!ftb,am%" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="d^zoKqRwkLR(k8^Ti]z}"><field name="LEDS">`
+        . # # . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field></block></statement></block><block type="device_forever" id="!n}#k8^2`,omIBi+5scf" x="342" y="38"><statement name="HANDLER"><block type="device_show_leds" id="5@J]dW)9HR!dZ0LyBoXQ"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # # # . 
+        . # # # . 
+        . # # # .
+        `</field></block></statement></block><block type="pxt-on-start" id="RLG}1bOs$T|y(5+_E,2D" x="11" y="391"><statement name="HANDLER"><block type="device_show_number" id="CO~B*c;`F/7tDr2Lr{BK"><value name="number"><shadow type="math_number" id="-F_T]lDUdx-[`8ohC$Nj"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id="n*hk!MdVoh0yLtKUcBKD"><value name="number"><shadow type="math_number" id="bWwamO`4J6]$LJKr_F.,"><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="rnHqmH%sK/T;{+t6~eBr"><value name="number"><shadow type="math_number" id="!z7D=~KhQG/wFAs+QmO-"><field name="NUM">1</field></shadow></value></block></next></block></next></block></statement></block></xml>
